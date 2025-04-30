@@ -1,5 +1,3 @@
-# CodeAlpha
-
 # Secure Code Review Tool
 
 ## 📌 Overview
@@ -44,7 +42,7 @@ cd CodeAlpha_Secure_Coding_Review
    ```
 4. Click **📂 Browse Python File** to select a script for analysis.
 
-### Note:
+## Note:
 For this, I included some test scripts in this repository. You can use them as test cases.
 
 5. The tool scans the file and displays **security issues** with recommendations.
